@@ -62,19 +62,21 @@ README: Institutional Research at Allegheny
 
 ## Tools
 
-* Alleghenyir ([GitHub](https://github.com/Allegheny-College-IR/alleghenyir))  
-* Alleghenystyle ([GitHub](https://github.com/Allegheny-College-IR/alleghenystyle))  
+* Alleghenyir ([GitHub](https://github.com/Allegheny-College-IR/alleghenyir)) [^documentation] 
+* Alleghenystyle ([GitHub](https://github.com/Allegheny-College-IR/alleghenystyle)) [^documentation] 
 * Alleghenystat (in development) ([GitHub](https://github.com/Allegheny-College-IR/alleghenystat))  
-* Alleghenycanvasapi ([GitHub](https://github.com/Allegheny-College-IR/alleghenycanvasapi))  
+* Alleghenycanvasapi ([GitHub](https://github.com/Allegheny-College-IR/alleghenycanvasapi))  [^documentation]
 * Alleghenyie (in development) ([GitHub](https://github.com/Allegheny-College-IR/alleghenyie))  
   * Functions specific to cleaning and processing Allegheny’s Data Archive. 
+
+[^documentation]: Fully documented with help pages in R completed 8/28/26 with Claude.
 
 ## Regular Projects \- [asana link](https://app.asana.com/1/1125418915863430/project/1208321150773567/list/1208326933928008)
 
 1. Schedule updates  
    1. [Current enrollment](https://informer5.allegheny.edu/jobs/pbradley@allegheny.edu:send-finance_enrollmentreport_weekly) \- weekly to CFO  
    2. [ALIC enrollment](https://informer5.allegheny.edu/jobs/pbradley@allegheny.edu:send-alic-courses) \- weekly to Provost  
-   3. Retention \- weekly to ?  
+   3. Retention \- weekly to cabinet?  
 2. Factbook ([GitHub](https://github.com/Allegheny-College-IR/Factbook))  
    1. Compiled using quarto annually. ‘Docs’ folder becomes docker image, pushed to [shiny.allegheny.edu](http://shiny.allegheny.edu).    
    2. Current link is always ‘latest’, When new year published, add previous year to [https://sites.allegheny.edu/institutional-effectiveness/allegheny-college-factbook/](https://sites.allegheny.edu/institutional-effectiveness/allegheny-college-factbook/)  
